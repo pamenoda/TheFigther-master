@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Map
+  - SpecialAttack
+  - Light
+  - Kikoha
+  - GokuImage
+  - VegetaImage
+  - Player1
+  - Player2
+  - Player1Image
+  - Player2Image
+  - Player1Selection
+  - Player2Selection
+  - PlayButton
+  - QuitButton
+  - CellTournamentImage
+  - NamekImage
+  - Player1ImageMap
+  - Player2ImageMap
+  - SpiritAndTimeImage
+  - MenuController
+  - Player1HealthBar
+  - Player1EnergieBar
+  - Player2HealthBar
+  - Player2EnergieBar
+  - End
+  - Attack
+  - BorderMap
+  - OnlineButton
+  - Bullet
+  - OnlineManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - BackGround
+  - ForeGround
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 2379858509
+    locked: 0
+  - name: ForeGround
+    uniqueID: 542609341
+    locked: 0

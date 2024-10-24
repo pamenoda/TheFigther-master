@@ -1,0 +1,1888 @@
+fileFormatVersion: 2
+guid: 803903e742586b74c859ed62df7a4784
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2133
+        width: 146
+        height: 386
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9bf26faee6a00498cc2358fce30ac3
+      internalID: -537415314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_4
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 2141
+        width: 341
+        height: 378
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6904cdb48866f114fbcdc8c684b0016d
+      internalID: -550443291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_5
+      rect:
+        serializedVersion: 2
+        x: 1233
+        y: 2146
+        width: 194
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba431d0eb751a1439d3d0520bf62554
+      internalID: -359854134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_6
+      rect:
+        serializedVersion: 2
+        x: 1453
+        y: 2141
+        width: 282
+        height: 373
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3b48d4e7e51b84e91486e84b482b83
+      internalID: 1121098472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_7
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2119
+        width: 238
+        height: 396
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df03292b630447469768d2dcfc847ba
+      internalID: -1710260125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_8
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 2150
+        width: 212
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98c5ea9b94d2834e9345d1f1af0e06a
+      internalID: 1598886965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_9
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 2137
+        width: 225
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091d3297a501d6143827ab38ab973207
+      internalID: -569712841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_10
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 2137
+        width: 214
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a143520260a524c8b178f4e425ef8a
+      internalID: -169352202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_11
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 2145
+        width: 276
+        height: 357
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f301c54892574fb4c99646c4efe3ce4f
+      internalID: -648759032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_12
+      rect:
+        serializedVersion: 2
+        x: 2268
+        y: 2143
+        width: 250
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3f0b6c9af6e5141acae54fad3709ed
+      internalID: 1764391412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_13
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 2153
+        width: 369
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929031a7139b95c41a309fac2e9f1209
+      internalID: 1170486803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_15
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1382
+        width: 214
+        height: 359
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ed3fb039ee4fb4fb9229109220bb1b
+      internalID: 661471444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_18
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 1740
+        width: 290
+        height: 387
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d27474663984d4faa3a490916438cb
+      internalID: -1721478214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_23
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1751
+        width: 221
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53574bd4853e8c844bb3b6c6ae6fb2b6
+      internalID: -746861177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_24
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1773
+        width: 186
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97d30763cdc2544bafb7ca8a408c5fe
+      internalID: 550329937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_26
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1809
+        width: 250
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf312927da858e14e83a154d16085ce5
+      internalID: 184722534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_27
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 1786
+        width: 181
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3618474d4b4f31469d637c750281f3a
+      internalID: 406253594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_29
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1749
+        width: 237
+        height: 381
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27920e601ba12134fad4276d0fea400c
+      internalID: -829527520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_30
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1782
+        width: 177
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd473e490f65d7409c49d3bd90c5b6b
+      internalID: 842706435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_31
+      rect:
+        serializedVersion: 2
+        x: 1382
+        y: 1813
+        width: 329
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04135f2c13bb8414ea4450a7124665a6
+      internalID: 1652949462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_32
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 1753
+        width: 226
+        height: 358
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f59093107b5994487a9fc8923356f4
+      internalID: -73496136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_33
+      rect:
+        serializedVersion: 2
+        x: 2805
+        y: 1773
+        width: 234
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7dc9455cba84d542a1c88a0b4b50bb5
+      internalID: 461393697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_35
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 1773
+        width: 317
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c6da7986ff1e094fb4e9f103a453b48
+      internalID: -381832488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_37
+      rect:
+        serializedVersion: 2
+        x: 2530
+        y: 1774
+        width: 229
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd501443f4dad7342a4dd12391793644
+      internalID: 556892792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_40
+      rect:
+        serializedVersion: 2
+        x: 2676
+        y: 251
+        width: 193
+        height: 349
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3be4ab86620fe428979c688654dd9d
+      internalID: 70174041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_43
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1477
+        width: 316
+        height: 292
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012389064d4551449841b1126c0dfa34
+      internalID: -1903057441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_44
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 1533
+        width: 358
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb0089fd8aa8da43ae88b334992b7fb
+      internalID: 159888644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_45
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 1430
+        width: 213
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8e73206c021594da7333a9518b77f9
+      internalID: 1008767645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_46
+      rect:
+        serializedVersion: 2
+        x: 2289
+        y: 1409
+        width: 234
+        height: 349
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9caa762b707195145ab08c85c59cc8fa
+      internalID: -2108172993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_48
+      rect:
+        serializedVersion: 2
+        x: 2525
+        y: 1405
+        width: 314
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7102517714f207742925b173133632cd
+      internalID: 1516778113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_49
+      rect:
+        serializedVersion: 2
+        x: 2858
+        y: 1393
+        width: 169
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1984959b66c1c8449a4d7a428cb66850
+      internalID: 753772950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_50
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1413
+        width: 290
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bdd8a811c16bf24eb4d793be1dba7be
+      internalID: -1921308787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_51
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 1577
+        width: 368
+        height: 145
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6d80d5120b10f41a63fe027c0f6dbe
+      internalID: -1895077128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_52
+      rect:
+        serializedVersion: 2
+        x: 1869
+        y: 1441
+        width: 209
+        height: 274
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9356438df634d5f4785cadbe9e6013d2
+      internalID: 1960934696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_57
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1058
+        width: 203
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e60b2ad918d56439edc7a88925ad35
+      internalID: 1864569034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_58
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 1057
+        width: 293
+        height: 302
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c25d6fbc223b204cafa39a44c1306b6
+      internalID: -1812707713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_60
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 1049
+        width: 366
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec1789cc0c3e604ba7874a9756b21d5
+      internalID: -1413064078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_62
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 1069
+        width: 213
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e774b939b1fb28f449228aa8a1a419e5
+      internalID: -678667917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_64
+      rect:
+        serializedVersion: 2
+        x: 2761
+        y: 1018
+        width: 225
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f464b57367fc5e4dab562383c2910ed
+      internalID: -65082398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_65
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1053
+        width: 296
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75fd9c33cce89b4b8414f31ca41a139
+      internalID: -1387405513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_66
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1057
+        width: 211
+        height: 295
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e06b638f7fa59b4593be6ea02c1ac6a
+      internalID: -1125393429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_67
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 1507
+        width: 276
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12bc0692a1ccf244bbcbab31743543a2
+      internalID: 1871359095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_68
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1047
+        width: 230
+        height: 254
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d1c69de0ac37f478c0a0e71d16e014
+      internalID: 837312748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_69
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 1057
+        width: 326
+        height: 254
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf5f044e2a452d4da62d4c698264431
+      internalID: -2016062315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_70
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 1062
+        width: 190
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef12c3f6ca2a15945bcd03afb8b90f3d
+      internalID: 1947517184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_71
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 1053
+        width: 253
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67283c4e3920d8c48850dad40980d139
+      internalID: 933736093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_82
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 641
+        width: 186
+        height: 378
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b29775975a9a444fa0ba99fb479f0f6
+      internalID: -961676331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_85
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 629
+        width: 270
+        height: 401
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6add26a0e9e8eb4389b5b07a67661f5
+      internalID: 190873779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_87
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 650
+        width: 206
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 965e2ea7ec14a0d47afc5cff8237f3d3
+      internalID: -1947261648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_88
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 653
+        width: 206
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597ed1c3d5cddc0419cfdb0282a42c74
+      internalID: -111462335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_91
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 649
+        width: 277
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67005dc42fa9b914c9995dc85735fc49
+      internalID: 248199285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_92
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 649
+        width: 186
+        height: 333
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7f76ecc7c6499438521ced3aeb7348
+      internalID: -1111570337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_94
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 649
+        width: 242
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d927b9af05b75649bbe81f673fd4f07
+      internalID: -881748536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_95
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 649
+        width: 186
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244a9b01ea06e7048b58d98ad7fd9e60
+      internalID: -163211951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_97
+      rect:
+        serializedVersion: 2
+        x: 2597
+        y: 649
+        width: 234
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59055801c22330b47a260204b563df4a
+      internalID: -53653635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_99
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 646
+        width: 216
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 825718426e09f824b8a232eccc21d838
+      internalID: 1244969909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_101
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 638
+        width: 222
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09797152d6b07374da78fa8c190d88c6
+      internalID: -1917051851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_103
+      rect:
+        serializedVersion: 2
+        x: 2138
+        y: 646
+        width: 231
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80c536e8774df049becd28fe19a76c1
+      internalID: -1411430825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_104
+      rect:
+        serializedVersion: 2
+        x: 2861
+        y: 646
+        width: 188
+        height: 293
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17f2d31e73294d4b988ae51c9ea410e
+      internalID: -128837130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_119
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 357
+        width: 752
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45515c7b0a8adc9429bc04adc5132ed6
+      internalID: -743110382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_121
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 541
+        width: 112
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6497243c2d439047886a899b3c90a57
+      internalID: -400474731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_122
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 537
+        width: 111
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21768591398f44b45a6e49bb074bb48b
+      internalID: -517619856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_126
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 294
+        width: 222
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d6482a283a46ec468736e3dd922879a
+      internalID: 1997559462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_127
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 293
+        width: 222
+        height: 324
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc916d3ec3a8a3d4ea4a9f3cca1aeffb
+      internalID: 1933709397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_128
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 289
+        width: 258
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f024c89504407240b694a583577a927
+      internalID: 1623012381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_130
+      rect:
+        serializedVersion: 2
+        x: 2029
+        y: 257
+        width: 238
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b94b7442a1acf4ca71384d7fa62e64
+      internalID: 1985422513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_131
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 257
+        width: 210
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d6a39b570a1b042884b4796687e5c9
+      internalID: -540397492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_134
+      rect:
+        serializedVersion: 2
+        x: 1842
+        y: 249
+        width: 188
+        height: 361
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192e125ea74b90c469e133040ee0cf9f
+      internalID: 1937111529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_135
+      rect:
+        serializedVersion: 2
+        x: 2481
+        y: 213
+        width: 177
+        height: 382
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5da68390e844f940b8dad9129bdd2d9
+      internalID: 16378528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_136
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 233
+        width: 193
+        height: 373
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d0e54eeefce0641b97326e27165ab4
+      internalID: -1923040813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_138
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 385
+        width: 139
+        height: 150
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa31d2b320b610d4b9caddcc99c2a7a6
+      internalID: -1341900569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_144
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 173
+        width: 208
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0276d19dba27ab543be1644a578198d3
+      internalID: -1058209543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_145
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 65
+        width: 752
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349fdca9d1a72db428890de531121f7e
+      internalID: -203379101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: goku-PhotoRoompng-PhotoRoom-transformed_147
+      rect:
+        serializedVersion: 2
+        x: 1021
+        y: 21
+        width: 758
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3238e13a2a6f72d4ca973f77a18ad1e0
+      internalID: 1219617203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      goku-PhotoRoompng-PhotoRoom-transformed_0: -537415314
+      goku-PhotoRoompng-PhotoRoom-transformed_1: -2122988757
+      goku-PhotoRoompng-PhotoRoom-transformed_10: -169352202
+      goku-PhotoRoompng-PhotoRoom-transformed_100: 627714929
+      goku-PhotoRoompng-PhotoRoom-transformed_101: -1917051851
+      goku-PhotoRoompng-PhotoRoom-transformed_102: 527481210
+      goku-PhotoRoompng-PhotoRoom-transformed_103: -1411430825
+      goku-PhotoRoompng-PhotoRoom-transformed_104: -128837130
+      goku-PhotoRoompng-PhotoRoom-transformed_105: 1859578116
+      goku-PhotoRoompng-PhotoRoom-transformed_106: 327335577
+      goku-PhotoRoompng-PhotoRoom-transformed_107: -2146127996
+      goku-PhotoRoompng-PhotoRoom-transformed_108: -1142995879
+      goku-PhotoRoompng-PhotoRoom-transformed_109: -753511354
+      goku-PhotoRoompng-PhotoRoom-transformed_11: -648759032
+      goku-PhotoRoompng-PhotoRoom-transformed_110: -915934491
+      goku-PhotoRoompng-PhotoRoom-transformed_111: -72771286
+      goku-PhotoRoompng-PhotoRoom-transformed_112: 1923615332
+      goku-PhotoRoompng-PhotoRoom-transformed_113: 27193207
+      goku-PhotoRoompng-PhotoRoom-transformed_114: -208836559
+      goku-PhotoRoompng-PhotoRoom-transformed_115: 762740634
+      goku-PhotoRoompng-PhotoRoom-transformed_116: -1751230047
+      goku-PhotoRoompng-PhotoRoom-transformed_117: 1434859701
+      goku-PhotoRoompng-PhotoRoom-transformed_118: -1047449075
+      goku-PhotoRoompng-PhotoRoom-transformed_119: -743110382
+      goku-PhotoRoompng-PhotoRoom-transformed_12: 1764391412
+      goku-PhotoRoompng-PhotoRoom-transformed_120: -617988464
+      goku-PhotoRoompng-PhotoRoom-transformed_121: -400474731
+      goku-PhotoRoompng-PhotoRoom-transformed_122: -517619856
+      goku-PhotoRoompng-PhotoRoom-transformed_123: -519321844
+      goku-PhotoRoompng-PhotoRoom-transformed_124: 698723694
+      goku-PhotoRoompng-PhotoRoom-transformed_125: -1195525528
+      goku-PhotoRoompng-PhotoRoom-transformed_126: 1997559462
+      goku-PhotoRoompng-PhotoRoom-transformed_127: 1933709397
+      goku-PhotoRoompng-PhotoRoom-transformed_128: 1623012381
+      goku-PhotoRoompng-PhotoRoom-transformed_129: -1775043764
+      goku-PhotoRoompng-PhotoRoom-transformed_13: 1170486803
+      goku-PhotoRoompng-PhotoRoom-transformed_130: 1985422513
+      goku-PhotoRoompng-PhotoRoom-transformed_131: -540397492
+      goku-PhotoRoompng-PhotoRoom-transformed_132: -1154419574
+      goku-PhotoRoompng-PhotoRoom-transformed_133: -1978569697
+      goku-PhotoRoompng-PhotoRoom-transformed_134: 1937111529
+      goku-PhotoRoompng-PhotoRoom-transformed_135: 16378528
+      goku-PhotoRoompng-PhotoRoom-transformed_136: -1923040813
+      goku-PhotoRoompng-PhotoRoom-transformed_137: -232127561
+      goku-PhotoRoompng-PhotoRoom-transformed_138: -1341900569
+      goku-PhotoRoompng-PhotoRoom-transformed_139: -773373966
+      goku-PhotoRoompng-PhotoRoom-transformed_14: -1190142006
+      goku-PhotoRoompng-PhotoRoom-transformed_140: 2106159326
+      goku-PhotoRoompng-PhotoRoom-transformed_141: 1929340760
+      goku-PhotoRoompng-PhotoRoom-transformed_142: 1801144490
+      goku-PhotoRoompng-PhotoRoom-transformed_143: 930764005
+      goku-PhotoRoompng-PhotoRoom-transformed_144: -1058209543
+      goku-PhotoRoompng-PhotoRoom-transformed_145: -203379101
+      goku-PhotoRoompng-PhotoRoom-transformed_146: -214516567
+      goku-PhotoRoompng-PhotoRoom-transformed_147: 1219617203
+      goku-PhotoRoompng-PhotoRoom-transformed_148: 1471194335
+      goku-PhotoRoompng-PhotoRoom-transformed_149: -658873944
+      goku-PhotoRoompng-PhotoRoom-transformed_15: 661471444
+      goku-PhotoRoompng-PhotoRoom-transformed_150: -1597649578
+      goku-PhotoRoompng-PhotoRoom-transformed_16: 26617842
+      goku-PhotoRoompng-PhotoRoom-transformed_17: 1804405862
+      goku-PhotoRoompng-PhotoRoom-transformed_18: -1721478214
+      goku-PhotoRoompng-PhotoRoom-transformed_19: -677919630
+      goku-PhotoRoompng-PhotoRoom-transformed_2: -1285622563
+      goku-PhotoRoompng-PhotoRoom-transformed_20: 734247759
+      goku-PhotoRoompng-PhotoRoom-transformed_21: 1997087283
+      goku-PhotoRoompng-PhotoRoom-transformed_22: 2022553588
+      goku-PhotoRoompng-PhotoRoom-transformed_23: -746861177
+      goku-PhotoRoompng-PhotoRoom-transformed_24: 550329937
+      goku-PhotoRoompng-PhotoRoom-transformed_25: 1530562975
+      goku-PhotoRoompng-PhotoRoom-transformed_26: 184722534
+      goku-PhotoRoompng-PhotoRoom-transformed_27: 406253594
+      goku-PhotoRoompng-PhotoRoom-transformed_28: 102456856
+      goku-PhotoRoompng-PhotoRoom-transformed_29: -829527520
+      goku-PhotoRoompng-PhotoRoom-transformed_3: -1211467851
+      goku-PhotoRoompng-PhotoRoom-transformed_30: 842706435
+      goku-PhotoRoompng-PhotoRoom-transformed_31: 1652949462
+      goku-PhotoRoompng-PhotoRoom-transformed_32: -73496136
+      goku-PhotoRoompng-PhotoRoom-transformed_33: 461393697
+      goku-PhotoRoompng-PhotoRoom-transformed_34: 1211920603
+      goku-PhotoRoompng-PhotoRoom-transformed_35: -381832488
+      goku-PhotoRoompng-PhotoRoom-transformed_36: 1917728528
+      goku-PhotoRoompng-PhotoRoom-transformed_37: 556892792
+      goku-PhotoRoompng-PhotoRoom-transformed_38: -660771322
+      goku-PhotoRoompng-PhotoRoom-transformed_39: -1889059140
+      goku-PhotoRoompng-PhotoRoom-transformed_4: -550443291
+      goku-PhotoRoompng-PhotoRoom-transformed_40: 70174041
+      goku-PhotoRoompng-PhotoRoom-transformed_41: 1388811668
+      goku-PhotoRoompng-PhotoRoom-transformed_42: 1699151120
+      goku-PhotoRoompng-PhotoRoom-transformed_43: -1903057441
+      goku-PhotoRoompng-PhotoRoom-transformed_44: 159888644
+      goku-PhotoRoompng-PhotoRoom-transformed_45: 1008767645
+      goku-PhotoRoompng-PhotoRoom-transformed_46: -2108172993
+      goku-PhotoRoompng-PhotoRoom-transformed_47: 187930225
+      goku-PhotoRoompng-PhotoRoom-transformed_48: 1516778113
+      goku-PhotoRoompng-PhotoRoom-transformed_49: 753772950
+      goku-PhotoRoompng-PhotoRoom-transformed_5: -359854134
+      goku-PhotoRoompng-PhotoRoom-transformed_50: -1921308787
+      goku-PhotoRoompng-PhotoRoom-transformed_51: -1895077128
+      goku-PhotoRoompng-PhotoRoom-transformed_52: 1960934696
+      goku-PhotoRoompng-PhotoRoom-transformed_53: 873633129
+      goku-PhotoRoompng-PhotoRoom-transformed_54: 1758673593
+      goku-PhotoRoompng-PhotoRoom-transformed_55: -427038565
+      goku-PhotoRoompng-PhotoRoom-transformed_56: 713425186
+      goku-PhotoRoompng-PhotoRoom-transformed_57: 1864569034
+      goku-PhotoRoompng-PhotoRoom-transformed_58: -1812707713
+      goku-PhotoRoompng-PhotoRoom-transformed_59: -1797973542
+      goku-PhotoRoompng-PhotoRoom-transformed_6: 1121098472
+      goku-PhotoRoompng-PhotoRoom-transformed_60: -1413064078
+      goku-PhotoRoompng-PhotoRoom-transformed_61: 1603252148
+      goku-PhotoRoompng-PhotoRoom-transformed_62: -678667917
+      goku-PhotoRoompng-PhotoRoom-transformed_63: -1340230551
+      goku-PhotoRoompng-PhotoRoom-transformed_64: -65082398
+      goku-PhotoRoompng-PhotoRoom-transformed_65: -1387405513
+      goku-PhotoRoompng-PhotoRoom-transformed_66: -1125393429
+      goku-PhotoRoompng-PhotoRoom-transformed_67: 1871359095
+      goku-PhotoRoompng-PhotoRoom-transformed_68: 837312748
+      goku-PhotoRoompng-PhotoRoom-transformed_69: -2016062315
+      goku-PhotoRoompng-PhotoRoom-transformed_7: -1710260125
+      goku-PhotoRoompng-PhotoRoom-transformed_70: 1947517184
+      goku-PhotoRoompng-PhotoRoom-transformed_71: 933736093
+      goku-PhotoRoompng-PhotoRoom-transformed_72: 1633389034
+      goku-PhotoRoompng-PhotoRoom-transformed_73: -1663958432
+      goku-PhotoRoompng-PhotoRoom-transformed_74: 403719029
+      goku-PhotoRoompng-PhotoRoom-transformed_75: -384283939
+      goku-PhotoRoompng-PhotoRoom-transformed_76: 1490482510
+      goku-PhotoRoompng-PhotoRoom-transformed_77: -1778199921
+      goku-PhotoRoompng-PhotoRoom-transformed_78: -228245499
+      goku-PhotoRoompng-PhotoRoom-transformed_79: 473488071
+      goku-PhotoRoompng-PhotoRoom-transformed_8: 1598886965
+      goku-PhotoRoompng-PhotoRoom-transformed_80: -1123258480
+      goku-PhotoRoompng-PhotoRoom-transformed_81: -640133211
+      goku-PhotoRoompng-PhotoRoom-transformed_82: -961676331
+      goku-PhotoRoompng-PhotoRoom-transformed_83: 720053502
+      goku-PhotoRoompng-PhotoRoom-transformed_84: 2141152153
+      goku-PhotoRoompng-PhotoRoom-transformed_85: 190873779
+      goku-PhotoRoompng-PhotoRoom-transformed_86: -1096397324
+      goku-PhotoRoompng-PhotoRoom-transformed_87: -1947261648
+      goku-PhotoRoompng-PhotoRoom-transformed_88: -111462335
+      goku-PhotoRoompng-PhotoRoom-transformed_89: 1695296401
+      goku-PhotoRoompng-PhotoRoom-transformed_9: -569712841
+      goku-PhotoRoompng-PhotoRoom-transformed_90: 1132209701
+      goku-PhotoRoompng-PhotoRoom-transformed_91: 248199285
+      goku-PhotoRoompng-PhotoRoom-transformed_92: -1111570337
+      goku-PhotoRoompng-PhotoRoom-transformed_93: 1898488244
+      goku-PhotoRoompng-PhotoRoom-transformed_94: -881748536
+      goku-PhotoRoompng-PhotoRoom-transformed_95: -163211951
+      goku-PhotoRoompng-PhotoRoom-transformed_96: -381840073
+      goku-PhotoRoompng-PhotoRoom-transformed_97: -53653635
+      goku-PhotoRoompng-PhotoRoom-transformed_98: 1028968304
+      goku-PhotoRoompng-PhotoRoom-transformed_99: 1244969909
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

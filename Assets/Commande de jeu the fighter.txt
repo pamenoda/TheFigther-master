@@ -1,0 +1,21 @@
+Commande de jeu the fighter:
+
+
+Déplacement : q(gauche) d(droite)
+
+saut : espace 
+
+garde haute : c 
+
+garde basse : s 
+
+coup de poing : E
+
+combo coup de poing : E E (très vite)
+
+high kick : A
+
+low kick : V 
+
+attaque spéciale : R 
+

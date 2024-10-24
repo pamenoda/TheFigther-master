@@ -1,0 +1,2554 @@
+fileFormatVersion: 2
+guid: 4983415310d9c3547926e74ad9c05a2a
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: tvOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_7
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 2216
+        width: 191
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76979b4473ad0f249932a90b75c855f2
+      internalID: -1816521194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_9
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 2209
+        width: 177
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73995244df44d6c44a177fdb5b895b6d
+      internalID: -172764313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_12
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 2229
+        width: 142
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f69e20e73b73007458fd75de2edb9526
+      internalID: 820189619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_14
+      rect:
+        serializedVersion: 2
+        x: 2302
+        y: 2210
+        width: 176
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078441233c1be62429565911cc61f9d8
+      internalID: 637234765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_15
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 2216
+        width: 175
+        height: 307
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f64bf5c39fd4b8498796433f795cd14
+      internalID: 278295848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_17
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 2206
+        width: 192
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b326e3429e7f34d89bd3fdc5a717ad
+      internalID: -1149419002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_18
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 2216
+        width: 291
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3273f291aa8f6dd49b8a142b4d011c1e
+      internalID: 609011364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_22
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 2223
+        width: 162
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a6805c63cf1be44b553ad98824c961
+      internalID: -2089201812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_25
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 2213
+        width: 275
+        height: 301
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51997c637d9172d4ab39ed3ec84e2be7
+      internalID: 657005352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_27
+      rect:
+        serializedVersion: 2
+        x: 1863
+        y: 2223
+        width: 247
+        height: 290
+      alignment: 9
+      pivot: {x: 0.25, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c7e6c3beda8bf43b5b34cf660a62d4
+      internalID: -1625644526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_28
+      rect:
+        serializedVersion: 2
+        x: 2117
+        y: 2234
+        width: 176
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7d4e96479fb4c49b7b289cebe9a663
+      internalID: -175379262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_29
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 2189
+        width: 234
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758e42093cfbdd74e9b06a0b836e1541
+      internalID: 1362689702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_73
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 1897
+        width: 188
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ead6e9e37dfb914f9ea8b29365c91ca
+      internalID: -1975710805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_74
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1854
+        width: 200
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14012c705c42ea04db70803b09de69b2
+      internalID: -389086015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_75
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1877
+        width: 182
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c4cd1f92f28cc44ca799f8facf46cd4
+      internalID: 358628051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_76
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 1888
+        width: 197
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3c2ff467a9c9d439425df21670d5ea
+      internalID: -2043732473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_80
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 1933
+        width: 260
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 816cecec125f39a4bac25e58c006b7e1
+      internalID: 2107540122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_83
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 1909
+        width: 180
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f82b16412e748ba4497063abc2b4236f
+      internalID: -197121591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_84
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 1909
+        width: 297
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d60f64263225bc04184ee26e4500bf55
+      internalID: 1014014099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_85
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 1860
+        width: 141
+        height: 318
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf805f18dbaa61b479c2d38974577a86
+      internalID: -1780332178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_86
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1910
+        width: 285
+        height: 264
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988387a06fe561447a60b2903512ddd8
+      internalID: -234808109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_87
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 2185
+        width: 143
+        height: 343
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea5f02f9bb06ce04ca80b2409a076978
+      internalID: -1238398392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_89
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1882
+        width: 151
+        height: 284
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32ac1bce95705544a455f1fd2288f20
+      internalID: -1733005788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_90
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1902
+        width: 289
+        height: 265
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064b0eb065ecb2344bce032c3838f438
+      internalID: -672089727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_92
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 1918
+        width: 152
+        height: 253
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d69f1a11b741d4bbaf0d167cdbca1c
+      internalID: 200993331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_104
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 2208
+        width: 165
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3797e54697ec54993da7cc0a739774
+      internalID: -172486262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_134
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1618
+        width: 197
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c0de7e693c0a54ea21243e57ff9d58
+      internalID: 417115354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_137
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1606
+        width: 177
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efba70d435fbe6f418df291aadf3bad3
+      internalID: 718618538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_138
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 1606
+        width: 198
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163c3dcb0b5fa7c4986533f3548af973
+      internalID: -1103054283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_140
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1581
+        width: 173
+        height: 253
+      alignment: 9
+      pivot: {x: 0.5, y: 0.66}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48359aeb9275eb479fbe15275bcd7ec
+      internalID: 63932980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_141
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1586
+        width: 182
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210947602bca4f545a671863e57c298c
+      internalID: -712974105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_143
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1609
+        width: 305
+        height: 206
+      alignment: 9
+      pivot: {x: 0.5, y: 0.75}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8569db1886344604a82da8e09e051f86
+      internalID: -904451461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_144
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 1601
+        width: 273
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5eaa6b2a29d7214884df2283717bb70
+      internalID: -1158004841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_146
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 1598
+        width: 240
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f8003c3729a174e94c4392c52bdf16
+      internalID: 98251723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_150
+      rect:
+        serializedVersion: 2
+        x: 1521
+        y: 1597
+        width: 286
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2d932da1340c24d8994debcbc82140
+      internalID: 1322970924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_153
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 1599
+        width: 242
+        height: 179
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e7880404eff5843ab2d8bc86cd10c4
+      internalID: -588378373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_160
+      rect:
+        serializedVersion: 2
+        x: 2074
+        y: 1598
+        width: 316
+        height: 147
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d56bf48b0bcd9943a816defaf818908
+      internalID: 988644249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_187
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 1213
+        width: 149
+        height: 346
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c92c172fbc1aed42a77fe83e69595dd
+      internalID: 1041618715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_188
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 1242
+        width: 149
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23246dbe8965ab34f9d7e4ca5127eeef
+      internalID: 444589156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_190
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1238
+        width: 172
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb94d7b14d4324b41b61356495aee6a9
+      internalID: 216644319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_192
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1242
+        width: 177
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6686e0e225971ed4296c7f6f295f98bf
+      internalID: 676043988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_193
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 1215
+        width: 143
+        height: 326
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88471de175dfbb04e95021bfc473b7cb
+      internalID: -683024123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_195
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1225
+        width: 141
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08732b11181fb034e9080d69ab5805d3
+      internalID: -696283187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_200
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1233
+        width: 169
+        height: 286
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f59f3f5b36a14e641b96c7af24894652
+      internalID: -690213873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_202
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1209
+        width: 156
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1528f005be330204eac32aaa33ea0323
+      internalID: -472837085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_203
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 1202
+        width: 157
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b09cffb5fb015c40a119f8b46ab16c5
+      internalID: -468938848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_204
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 1200
+        width: 148
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab158784c54ce6f428de73342b01adbf
+      internalID: 1808582006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_207
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 1238
+        width: 252
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d846f7c4edf0c3428d2208349d3980f
+      internalID: -1511810761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_209
+      rect:
+        serializedVersion: 2
+        x: 2357
+        y: 1198
+        width: 145
+        height: 313
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefdc89daaf0f1d41ba2b982898901fb
+      internalID: 1149244140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_211
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 1189
+        width: 173
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a388f8ee27a79684b826970535ac9207
+      internalID: 1163085404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_212
+      rect:
+        serializedVersion: 2
+        x: 2533
+        y: 1202
+        width: 158
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcac8a8034eba054ba3058543ee40ba9
+      internalID: -334252522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_213
+      rect:
+        serializedVersion: 2
+        x: 2743
+        y: 1202
+        width: 155
+        height: 241
+      alignment: 9
+      pivot: {x: 0.5, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5c8e26f71bc794bb0dc59af51f8e0a
+      internalID: -166919668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_258
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 1108
+        width: 136
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d2e7802ae721f40b770cd9a5fc0424
+      internalID: -1643477494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_264
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 725
+        width: 250
+        height: 428
+      alignment: 9
+      pivot: {x: 0.5, y: 0.35}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c01fc83db8b6a8439135c570931eb11
+      internalID: 1933117950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_267
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 1105
+        width: 113
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb3092ef387999e4d9011dbfe8fdbf46
+      internalID: -857126968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_276
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 721
+        width: 187
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad55b0baebcb7442bc7c404d9517ead
+      internalID: 1893814581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_277
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 734
+        width: 236
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99918cc47fe73b48acc8b5c0216e2ad
+      internalID: -567827461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_278
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 750
+        width: 181
+        height: 305
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe69b2b4dfdf5f0428beb19ab75a048a
+      internalID: 398557967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_285
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 732
+        width: 174
+        height: 319
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97043801b3ffece4ab99757053769f47
+      internalID: 716666041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_287
+      rect:
+        serializedVersion: 2
+        x: 1972
+        y: 733
+        width: 210
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ec17a66098759441a7cef7575c19734
+      internalID: 947643056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_289
+      rect:
+        serializedVersion: 2
+        x: 2413
+        y: 749
+        width: 140
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06f55fb7ae45d64a8f049b30e8a99f2
+      internalID: 54354426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_291
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 721
+        width: 188
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d16e711cd98e964193f76b4f2d99f45
+      internalID: 1848907779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_294
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 730
+        width: 188
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094f3bbf7763de240805dac898f2653f
+      internalID: -929238602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_295
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 744
+        width: 140
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af57b2cf4324a645980d8e72aadf4e7
+      internalID: -1291681286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_297
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 721
+        width: 222
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c82fa5c526d9b5e45b6a0b72ff1d82e7
+      internalID: 1963891656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_298
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 734
+        width: 289
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb09221c7f403b4294bf61f13b20cd4
+      internalID: 1237523434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_301
+      rect:
+        serializedVersion: 2
+        x: 2750
+        y: 733
+        width: 153
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d854d80cc26ce44be09cd2c9c5e6cf
+      internalID: 1789708143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_343
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 389
+        width: 188
+        height: 334
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85113e24a7ee9b42b0a480de87217bc
+      internalID: 2028496849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_354
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 394
+        width: 217
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3636b088110624c93f2b32f9e8f5a0
+      internalID: -1812064407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_356
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 385
+        width: 203
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18beae5bdc2c591478c0586bb7304574
+      internalID: 66096992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_357
+      rect:
+        serializedVersion: 2
+        x: 2517
+        y: 380
+        width: 117
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de181d5b4328f5b48b36fb9bc170d51b
+      internalID: -2047326543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_359
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 396
+        width: 181
+        height: 314
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c2e50228bad5a49992bfed1e9868fa
+      internalID: 1386263285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_361
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 385
+        width: 209
+        height: 325
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88365b7c4d097f1459259a2c76ca8beb
+      internalID: -1428848350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_362
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 389
+        width: 243
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ad04830ab48194ebea3dc4edb03c13
+      internalID: -984770109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_365
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 405
+        width: 227
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52894549304c384c90189a7a6aa1158
+      internalID: -2060572733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_366
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 393
+        width: 157
+        height: 309
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e87ca70f17db6b43aea66aac5e8bb01
+      internalID: -288660128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_367
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 385
+        width: 208
+        height: 316
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e235701cfceaa44d9ff5774a8c4e64a
+      internalID: 926251952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_368
+      rect:
+        serializedVersion: 2
+        x: 1835
+        y: 389
+        width: 232
+        height: 310
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9fa931a81a729499042debd899c20e
+      internalID: -190278000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_371
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 534
+        width: 144
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242a7f5ebb4186f448b3da74b7a9f753
+      internalID: -424264786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_385
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 421
+        width: 107
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ebe96c4b08803409d82de8fc46e9d8
+      internalID: 2052363864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_391
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 34
+        width: 262
+        height: 462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21699f5af57afa4cadf3773fec839ed
+      internalID: -1743254214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_407
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 313
+        width: 106
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f18465127a50224ca48060a08078473
+      internalID: 1407612533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_421
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 38
+        width: 721
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ddc7a11a57d40743a8ada0722f179e1
+      internalID: -1491599403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_423
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 30
+        width: 192
+        height: 341
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d54fdd6410235740b6eb2ba9a4506e1
+      internalID: 1675934217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_425
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 43
+        width: 147
+        height: 335
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85ebeda6d1df25e43945a9fb9d33684e
+      internalID: 1966578515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_426
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 46
+        width: 144
+        height: 332
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52631e9a02b02f48a1f8da349200179
+      internalID: -287898457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_430
+      rect:
+        serializedVersion: 2
+        x: 1986
+        y: 46
+        width: 156
+        height: 320
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7dd009f7e09d7841873b63105057b38
+      internalID: -703602612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_434
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 44
+        width: 152
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca831740556c4a24d99aefabf2d491d2
+      internalID: -574032121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_435
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 101
+        width: 296
+        height: 205
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faac9a58273452f4394279d0360f207f
+      internalID: -997904619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Vegeta-PhotoRoompng-PhotoRoom-transformed_440
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 132
+        width: 202
+        height: 138
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc98768448b80ea48acc5b8223322f55
+      internalID: -729365019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_0: -563734365
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_1: -914778731
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_10: -984938093
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_100: 517248462
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_101: 74866985
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_102: 78654372
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_103: 2063038586
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_104: -172486262
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_105: -139926704
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_106: 1527787657
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_107: -607950899
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_108: -26268900
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_109: -1213438250
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_11: 265933648
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_110: -721872237
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_111: -1285025623
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_112: 1372636211
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_113: 857876122
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_114: 1884125841
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_115: 50377563
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_116: -2007610570
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_117: 1927119885
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_118: 1445972722
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_119: -2100927643
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_12: 820189619
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_120: 1861072098
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_121: 1483580574
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_122: 586546897
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_123: 1161308476
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_124: 1036579726
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_125: 1354274604
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_126: -1072407986
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_127: 1591154860
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_128: 1250646440
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_129: -315266314
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_13: 1927890836
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_130: -211978546
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_131: -1058562520
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_132: -1210417331
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_133: -351917072
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_134: 417115354
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_135: -767251908
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_136: -1710264622
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_137: 718618538
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_138: -1103054283
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_139: 2054047482
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_14: 637234765
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_140: 63932980
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_141: -712974105
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_142: -893595030
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_143: -904451461
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_144: -1158004841
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_145: -1972767183
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_146: 98251723
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_147: 504512919
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_148: -2074203071
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_149: -1049829436
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_15: 278295848
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_150: 1322970924
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_151: -1358749459
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_152: -1049118625
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_153: -588378373
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_154: 1593128032
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_155: -737892641
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_156: 1406126814
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_157: 74835816
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_158: 1698401763
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_159: 666443180
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_16: -80352997
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_160: 988644249
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_161: 1620793629
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_162: -1595331471
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_163: -250681054
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_164: -271369251
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_165: 1311250664
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_166: -1950808168
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_167: 606958143
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_168: -490304860
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_169: 1489070185
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_17: -1149419002
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_170: -2051023474
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_171: -1501420296
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_172: -1063097109
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_173: -1163655480
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_174: 1469232345
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_175: 1041039839
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_176: 1560932200
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_177: -1225566209
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_178: 143999832
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_179: 832211018
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_18: 609011364
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_180: 667419030
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_181: -99713857
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_182: 1359095601
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_183: -1355736485
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_184: 143349859
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_185: -340415336
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_186: 2026494883
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_187: 1041618715
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_188: 444589156
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_189: -1184640329
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_19: -862531600
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_190: 216644319
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_191: 1066128227
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_192: 676043988
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_193: -683024123
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_194: -1678588206
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_195: -696283187
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_196: 2068309796
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_197: -1045847452
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_198: -1127567898
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_199: -1115912410
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_2: 1727795925
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_20: 1711567320
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_200: -690213873
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_201: 1298224083
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_202: -472837085
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_203: -468938848
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_204: 1808582006
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_205: -500428127
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_206: 197983015
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_207: -1511810761
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_208: 84432222
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_209: 1149244140
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_21: -830699145
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_210: -920235030
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_211: 1163085404
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_212: -334252522
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_213: -166919668
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_214: 1948083770
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_215: 1277161906
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_216: 1193548459
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_217: -1667169641
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_218: -756125793
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_219: -67308567
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_22: -2089201812
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_220: -1146574680
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_221: -1038959328
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_222: -1873685149
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_223: 211712334
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_224: -1615465462
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_225: -1661021360
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_226: 1224010365
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_227: 89575156
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_228: 1120310804
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_229: 1677984043
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_23: -192675981
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_230: 2020558924
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_231: -1372856708
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_232: 611677532
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_233: -356455372
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_234: -849640457
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_235: 138593719
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_236: 1568803179
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_237: -2084222371
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_238: -1648139595
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_239: 141342325
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_24: 1213085504
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_240: -1369708634
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_241: 1853207079
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_242: 1801449884
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_243: 1849947364
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_244: 608079351
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_245: -598110342
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_246: -401161177
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_247: 695049042
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_248: -1576712162
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_249: -1088688274
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_25: 657005352
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_250: -1121145815
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_251: -1889850533
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_252: 1442758233
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_253: 217155978
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_254: -1798520363
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_255: -178152051
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_256: -994830761
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_257: -204270839
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_258: -1643477494
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_259: 2131321858
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_26: -1390022060
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_260: 351506105
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_261: -1416515038
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_262: -181218494
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_263: -1130655281
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_264: 1933117950
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_265: -1375545519
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_266: 967128733
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_267: -857126968
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_268: 1850580613
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_269: 1785662412
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_27: -1625644526
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_270: -1768597676
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_271: -758920640
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_272: 350318950
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_273: 646990451
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_274: -1281766792
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_275: -435066836
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_276: 1893814581
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_277: -567827461
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_278: 398557967
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_279: 1226435461
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_28: -175379262
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_280: 1383816735
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_281: 564394834
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_282: 278853921
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_283: 191092141
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_284: 908979561
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_285: 716666041
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_286: 849041320
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_287: 947643056
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_288: -1094687957
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_289: 54354426
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_29: 1362689702
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_290: -1053313499
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_291: 1848907779
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_292: -1106600217
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_293: 1991449108
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_294: -929238602
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_295: -1291681286
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_296: -2093640365
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_297: 1963891656
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_298: 1237523434
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_299: -1844896393
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_3: -1710043289
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_30: -1431644812
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_300: -1480084765
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_301: 1789708143
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_302: -1195840378
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_303: 244492130
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_304: 967417448
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_305: 1451333984
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_306: -399329949
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_307: -131463155
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_308: -1779392564
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_309: 1826614071
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_31: 1179865625
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_310: 1384215287
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_311: -2095108444
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_312: -1295369387
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_313: -1736562622
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_314: 99819767
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_315: 1461863992
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_316: -1733684833
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_317: 1542056357
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_318: 520641154
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_319: -1027997487
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_32: -1142116594
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_320: -1913180056
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_321: 1791388160
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_322: -2096700507
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_323: 1829681925
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_324: -386695746
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_325: 1149187278
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_326: -1586641867
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_327: -742719864
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_328: 11683156
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_329: 1312298754
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_33: -92302641
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_330: 164167251
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_331: -1329758350
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_332: -123893960
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_333: -52730064
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_334: -1961681162
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_335: -1863811293
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_336: 1228722385
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_337: 1144182184
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_338: -1296362656
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_339: 49751671
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_34: 2038438580
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_340: 201873991
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_341: -1006251044
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_342: 1594043082
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_343: 2028496849
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_344: 1942304511
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_345: 700847168
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_346: -690512607
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_347: 1794755615
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_348: 1675361429
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_349: 1651585872
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_35: -1848238343
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_350: 1722135319
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_351: -700123355
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_352: -365898886
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_353: -1984946896
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_354: -1812064407
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_355: -339503141
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_356: 66096992
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_357: -2047326543
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_358: -1856731224
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_359: 1386263285
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_36: 1605117826
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_360: -32027805
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_361: -1428848350
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_362: -984770109
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_363: 240621611
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_364: -521568906
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_365: -2060572733
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_366: -288660128
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_367: 926251952
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_368: -190278000
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_369: 686204131
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_37: -991024193
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_370: 1236297066
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_371: -424264786
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_372: -529774452
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_373: -330170262
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_374: -660710162
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_375: 84911384
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_376: 402186826
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_377: -1064072916
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_378: 1128181596
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_379: -130982252
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_38: 1370425396
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_380: -234864158
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_381: 632103649
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_382: -563506702
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_383: 1983581957
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_384: 1599032008
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_385: 2052363864
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_386: 764031069
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_387: 939384451
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_388: -1392997996
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_389: -1303647865
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_39: 47072062
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_390: -718893947
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_391: -1743254214
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_392: 483616561
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_393: 1722327684
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_394: 35621607
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_395: -1257487734
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_396: 438552728
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_397: 750999592
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_398: 1268155809
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_399: -2117828047
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_4: -827489265
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_40: 1503335300
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_400: -423581415
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_401: 816562212
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_402: -1897088199
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_403: 189926287
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_404: 1008867985
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_405: -39607401
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_406: 2004690123
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_407: 1407612533
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_408: 13095118
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_409: -1779969262
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_41: 503238095
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_410: 1406397835
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_411: -2080267139
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_412: 547778174
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_413: -1362970806
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_414: 403281640
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_415: -491725606
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_416: 1884874233
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_417: -663344032
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_418: -1968400791
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_419: -1337016772
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_42: 1504796707
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_420: 1660389826
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_421: -1491599403
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_422: 608779236
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_423: 1675934217
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_424: 1566020657
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_425: 1966578515
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_426: -287898457
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_427: 512561483
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_428: -1642071611
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_429: 895651196
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_43: -699342538
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_430: -703602612
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_431: -761572210
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_432: -1751183367
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_433: -1927402321
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_434: -574032121
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_435: -997904619
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_436: -578359410
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_437: -1819664760
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_438: 2086291286
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_439: -1574226940
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_44: -519551990
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_440: -729365019
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_441: 15515627
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_442: -685186297
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_443: -1775406112
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_444: -1485840739
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_445: -1805749566
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_446: -337869446
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_447: 711917677
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_448: 1257678634
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_449: -1410828899
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_45: -1587083230
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_450: -671491151
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_451: 652355480
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_452: 448035165
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_453: 333129450
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_454: -835842468
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_455: 282333109
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_456: -647190910
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_457: -263185234
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_458: -1703088714
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_459: 732707916
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_46: -1472493490
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_460: -2103279040
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_461: 1858336865
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_462: 1222771151
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_463: -56394910
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_464: 845839027
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_465: -122654145
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_466: -561738140
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_467: -1558520957
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_468: 1186975214
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_469: 1093141318
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_47: -1364643639
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_470: -1197746352
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_471: 1649874717
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_472: -1642203264
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_473: 1024265098
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_474: -1421632103
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_475: 1396302207
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_476: -1211851214
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_477: -374484244
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_478: -156025265
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_479: -1651900196
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_48: 880788416
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_480: 61386026
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_49: -100847411
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_5: -424314561
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_50: -2138753912
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_51: -2010488104
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_52: -1762753465
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_53: -1620797326
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_54: 95048002
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_55: 2025600460
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_56: -1459922108
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_57: -1102105295
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_58: 1791610914
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_59: -25939616
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_6: 1697323817
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_60: 1574803370
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_61: 1744065554
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_62: -248483306
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_63: -1465533224
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_64: -170650591
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_65: 2028169097
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_66: -1794203087
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_67: 718056001
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_68: -366345122
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_69: 169167544
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_7: -1816521194
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_70: 1672697717
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_71: -1678566500
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_72: 1474527098
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_73: -1975710805
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_74: -389086015
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_75: 358628051
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_76: -2043732473
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_77: 1742350594
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_78: 1433051224
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_79: -1625345244
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_8: -1821427762
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_80: 2107540122
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_81: 1084056224
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_82: -2001404084
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_83: -197121591
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_84: 1014014099
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_85: -1780332178
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_86: -234808109
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_87: -1238398392
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_88: 795228375
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_89: -1733005788
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_9: -172764313
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_90: -672089727
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_91: 1757916858
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_92: 200993331
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_93: -1845278292
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_94: 1921664750
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_95: 1634297021
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_96: -2116196284
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_97: -1441384412
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_98: -1319611376
+      Vegeta-PhotoRoompng-PhotoRoom-transformed_99: 1429803342
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

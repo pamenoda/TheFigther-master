@@ -1,0 +1,210 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &1370549726725641841
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3816801180613676458}
+  - component: {fileID: 3361888839060492717}
+  - component: {fileID: -3403412035454725515}
+  - component: {fileID: 5574055750700895578}
+  m_Layer: 0
+  m_Name: player
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3816801180613676458
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1370549726725641841}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 927.2063, y: 572.9048, z: 5.698862}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3361888839060492717
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1370549726725641841}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62899f850307741f2a39c98a8b639597, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Actions: {fileID: -944628639613478452, guid: 60ceb67a03d24ee42b04d8f456645b37, type: 3}
+  m_NotificationBehavior: 2
+  m_UIInputModule: {fileID: 0}
+  m_DeviceLostEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_DeviceRegainedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_ControlsChangedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_ActionEvents:
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 6811bf20-6aed-4653-95e5-983cde8e7024
+    m_ActionName: Player/Movement[/Keyboard/a,/Keyboard/d,/XInputControllerWindows/leftStick/left,/XInputControllerWindows/leftStick/right]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: b6d5a3f7-74aa-4930-a049-7d40d2cdf571
+    m_ActionName: Player/Jump[/Keyboard/space,/XInputControllerWindows/buttonSouth]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 3267c432-b0c8-4779-8b32-d1663949bfff
+    m_ActionName: Player/Kick[/Keyboard/q,/XInputControllerWindows/buttonNorth]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 0fac0b7b-c319-404c-9cd9-e473b9e57c3b
+    m_ActionName: Player/Punch[/Keyboard/e,/XInputControllerWindows/buttonWest]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 332cfd9b-0bb3-4662-88a0-d4987caf72c4
+    m_ActionName: Player/GuardFloor[/Keyboard/s,/XInputControllerWindows/leftStick/down]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 0a5e5a0d-dd64-4234-b68c-2b5096a653b4
+    m_ActionName: Player/Guard[/Keyboard/c,/XInputControllerWindows/rightShoulder]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 45320907-5f09-4c55-8874-56bd606eb6f3
+    m_ActionName: Player/SpecialAttack[/Keyboard/r,/XInputControllerWindows/rightTrigger]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: cfd51106-a7ba-4fa1-b755-cef987fdfed1
+    m_ActionName: Player/KickDown[/XInputControllerWindows/buttonEast,/Keyboard/v]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 080ce89d-bab4-4831-8a01-7eb65a8c8731
+    m_ActionName: Player/KiCharge[/Keyboard/f,/XInputControllerWindows/leftShoulder]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 2e2d779b-85d8-4829-bf8d-3dda5e87b57c
+    m_ActionName: Player/Kikoha[/Keyboard/t,/XInputControllerWindows/leftTrigger]
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: -3403412035454725515}
+        m_TargetAssemblyTypeName: MenuController, Assembly-CSharp
+        m_MethodName: MenuSelection
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_ActionId: 18376b1b-21f5-494c-9eec-3b794ac6c5b2
+    m_ActionName: Player/MenuSelection[/Keyboard/a,/Keyboard/d,/Keyboard/w,/Keyboard/s,/DualSenseGamepadHID/leftStick/left,/DualSenseGamepadHID/leftStick/right,/DualSenseGamepadHID/leftStick/up,/DualSenseGamepadHID/leftStick/down]
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: -3403412035454725515}
+        m_TargetAssemblyTypeName: MenuController, Assembly-CSharp
+        m_MethodName: MenuVote
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_ActionId: 412bce74-8864-4fbc-b21f-ae73e3da95b1
+    m_ActionName: Player/Confirm[/Keyboard/enter,/DualSenseGamepadHID/buttonSouth]
+  - m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: -3403412035454725515}
+        m_TargetAssemblyTypeName: MenuController, Assembly-CSharp
+        m_MethodName: MenuCancel
+        m_Mode: 0
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_ActionId: 69266493-0fe6-465a-a7a7-62b2ff30a382
+    m_ActionName: Player/Cancel[/Keyboard/escape,/DualSenseGamepadHID/buttonEast]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: e4ad9800-571d-4c0d-a64a-210e25a25804
+    m_ActionName: Player/Pause[/Keyboard/escape,/DualSenseGamepadHID/start]
+  m_NeverAutoSwitchControlSchemes: 1
+  m_DefaultControlScheme: 
+  m_DefaultActionMap: Player
+  m_SplitScreenIndex: -1
+  m_Camera: {fileID: 0}
+--- !u!114 &-3403412035454725515
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1370549726725641841}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46990c158935e2b4d934174c1fa1c5fc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  selectedCharacter: -1
+  selectedMap: -1
+  currentSelection: {fileID: 0}
+  currentMenuArray: -1
+  playerBorder: {fileID: 0}
+  playerImage: {fileID: 0}
+  playerImageMap: {fileID: 0}
+  otherPlayer: {fileID: 0}
+  characters:
+  - {fileID: 0}
+  - {fileID: 0}
+  map:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  playVote: 0
+  quitVote: 0
+  isOnline: 0
+--- !u!114 &5574055750700895578
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1370549726725641841}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa584fbee541324448dd18d8409c7a41, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ObservedComponentsFoldoutOpen: 0
+  Group: 0
+  prefixField: -1
+  Synchronization: 3
+  OwnershipTransfer: 1
+  observableSearch: 2
+  ObservedComponents: []
+  sceneViewId: 0
+  InstantiationId: 0
+  isRuntimeInstantiated: 0
